@@ -1,0 +1,36 @@
+<resources>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="have_acc">У меня есть аккаунт</string>
+    <string name="forgot_pass">Забыли пароль?</string>
+    <string name="app_name">KAI library</string>
+    <string name="auth">Вход</string>
+    <string name="reg">Регистрация</string>
+    <string name="regin">Зарегестрироваться</string>
+    <string name="email">E-mail</string>
+    <string name="name">ФИО</string>
+    <string name="surname">Фамилия</string>
+    <string name="pass">Пароль</string>
+    <string name="pass_matches_criteria">Пароль должен соответствовать критериям</string>
+    <string name="pass_confirm">Подтверждение пароля</string>
+    <string name="wrong_email">Неверный E-mail</string>
+    <string name="wrong_phone">Неверный телефон</string>
+    <string name="wrong_fio">Неверный ФИО</string>
+    <string name="fill_field">Заполните поле</string>
+    <string name="pass_len">Длина не менее 8 символов</string>
+    <string name="big_letters">Заглавные латинские буквы</string>
+    <string name="digits">Цифры</string>
+    <string name="spec_symbols">Символы ! @ # $% &amp; *</string>
+    <string name="pass_eq">Пароли не совпадают</string>
+    <string name="via_telephone">По номеру телефона</string>
+    <string name="via_email">Через E-mail</string>
+    <string name="main_page">Главная</string>
+    <string name="stuf">Сотрудники</string>
+    <string name="adress">Адреса</string>
+    <string name="rejim">Режим работы</string>
+    <string name="contacts">Контакты</string>
+    <string name="catalog">Каталог</string>
+    <string name="favorities">Избранное</string>
+    <string name="court">Корзина</string>
+    <string name="Settings">Настройки</string>
+    <integer name="com_vk_sdk_AppId">51544152</integer>
+</resources>

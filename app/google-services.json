@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83675020272",
+    "project_id": "kai-lib",
+    "storage_bucket": "kai-lib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83675020272:android:9f2801c5976e806a12fb35",
+        "android_client_info": {
+          "package_name": "com.example.kailibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83675020272-8pp2d5e7iioba1407r3ilbrrdttcrfti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kailibrary",
+            "certificate_hash": "6cf233219f8a530a880219e5ebb34d9c87fbc49b"
+          }
+        },
+        {
+          "client_id": "83675020272-s6mlgb0mm8g5nrbbhdfiqpo5ugfghid2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbCf9usGhsoHrdzdvuzwyXAGlBmHLI1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83675020272-s6mlgb0mm8g5nrbbhdfiqpo5ugfghid2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

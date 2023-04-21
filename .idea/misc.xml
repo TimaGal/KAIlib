@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/avd_anim_buy.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/avd_pause_to_play.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/avd_play_to_pause.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_lock.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_name.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_ticky.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/ic_vk.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/selected_dot.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/text_cursor_color.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/drawable/unselected_dot.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/activity_welcome_screen.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/cards.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/layout/scene1.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/KAIlibrary/app/src/main/res/menu/app_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

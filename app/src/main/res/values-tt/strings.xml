@@ -1,0 +1,36 @@
+<resources>
+    <string name="welcome">Рәхим итегез!</string>
+    <string name="have_acc">Минем хисап бар</string>
+    <string name="forgot_pass">Серсүзне оныттылар?</string>
+    <string name="app_name">KAI library</string>
+    <string name="email">E-mail</string>
+    <string name="reg">Теркәлүя</string>
+    <string name="auth">Керү</string>
+    <string name="name">ФИО</string>
+    <string name="surname">Фамилия</string>
+    <string name="pass">Серсүз</string>
+    <string name="pass_matches_criteria">Серсүз критерийларга туры килергә тиеш</string>
+    <string name="pass_confirm">Серсүзне раслагыз</string>
+    <string name="regin">Зарегестрироваться</string>
+    <string name="wrong_phone">Неверный телефон</string>
+    <string name="wrong_fio">Неверный ФИО</string>
+    <string name="fill_field">Заполните поле</string>
+    <string name="wrong_email">Яраксыз E-mail</string>
+    <string name="pass_len">озынлыгы ким дигәндә 8 символ</string>
+    <string name="big_letters">Латин хәрефләре</string>
+    <string name="pass_eq">Серсүзнең туры килмәве</string>
+    <string name="digits">Саннар</string>
+    <string name="spec_symbols">Символлар ! @ # $% &amp; *</string>
+    <string name="via_telephone">Tелефон номеры буенча</string>
+    <string name="via_email">E-mail аша</string>
+    <string name="main_page">Төп бит</string>
+    <string name="stuf">Персонал</string>
+    <string name="adress">Адреслары</string>
+    <string name="rejim">Эш режимы</string>
+    <string name="contacts">Контактлар</string>
+    <string name="catalog">Каталог</string>
+    <string name="favorities">Фаворитлар</string>
+    <string name="court">Кәрзин</string>
+    <string name="Settings">Көйләүләр</string>
+    <integer name="com_vk_sdk_AppId">51544152</integer>
+</resources>
